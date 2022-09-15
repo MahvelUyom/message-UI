@@ -1,0 +1,130 @@
+body{
+  background-color: black;
+  
+}
+.background{
+  background:whitesmoke;
+  width:290px;
+  height:690px;
+  border-radius: 20px;
+  overflow: scroll;
+}
+.phone{
+  background:white;
+  height:700px;
+  width:300px;
+  border-radius: 30px;
+  padding:10px;
+}
+.top{
+  background:purple;
+  width:270px;
+  height:60px;
+  border-radius:20px 20px 5px 5px;
+  padding-top:0px;
+ 
+}
+.top img{
+  width:30px;
+  height:30px;
+  border-radius:50%;
+  float:left;
+  border:2px solid darkgrey;
+}
+.top h4{
+  margin-top: 0px;
+  text-align: center;
+}
+.top .online{
+  color:darkgrey;
+}
+.fa{
+  float:right;
+  color:darkgrey;
+}
+i {
+  
+}
+.white{
+  background: white;
+  border-radius: 0 0 30px 30px;
+  height:20px;
+  width:200px;
+  margin-bottom: 5px;
+  
+}
+.me{
+  float:right;
+  text-align: left;
+  
+}
+.me img{
+  width:70px;
+  height:70px;
+  border-radius: 10px;
+}
+.her{
+  float: left;
+  color:purple;
+  text-align: left;
+}
+.text p{
+  font-size: 18px;
+  padding: 8px;
+  border:1px solid white;
+  border-radius: 8px;
+  
+  
+}
+.text{
+  margin:10px;
+  margin-top: 10px;
+  font-weight: 500;
+}
+.text .her p{
+  background: lightgrey;
+  
+  padding:auto 0;
+}
+.text .me p{
+  background: white;
+ 
+}
+.text span{
+  margin:2px 3px;
+}
+button{
+  width:180px;
+  height:50px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  background: purple;
+  border:none;
+}
+.cash{
+  float:right;
+  color:white;
+  font-weight: 800;
+  font-size: 20px
+}
+button .fa {
+  float:left;
+}
+button .btn{
+  color:white;
+}
+input{
+  width:95%;
+  height:40px;
+  border-radius: 30px;
+  padding-left:10px;
+  font-size: 18px;
+  pointer:cursor;
+  position:;
+}
+input:hover{
+  border: 1px solid purple;
+  border-radius: 30px;
+}
